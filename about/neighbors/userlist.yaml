@@ -71,6 +71,12 @@
   xUrl : "https://x.com/baihebu"
   linkedInUrl : "https://www.linkedin.com/in/atsushi-kamiya-93584571"
 
+- name: 中山 晋一
+  affiliation : 株式会社電通総研
+  photo : ../../images/neighbors/nakayama_shinichi.jpg
+  xUrl : "https://x.com/datashin360"
+  linkedInUrl : "https://www.linkedin.com/in/shinichi-nakayama-280902191/"
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
