@@ -77,6 +77,12 @@
   xUrl : "https://x.com/baihebu"
   linkedInUrl : "https://www.linkedin.com/in/atsushi-kamiya-93584571"
 
+- name: アスタ
+  affiliation: --
+  photo: ../../images/neighbors/tsunoda_katsuma.png
+  xUrl : "https://x.com/ASTOUND_"
+  linkedInUrl : "https://www.linkedin.com/in/katsunoda-0339313a8"
+
 - name: ロー / LowSE01
   affiliation: ちゅらデータ株式会社
   photo: ../../images/neighbors/lowse01.jpg
@@ -93,7 +99,6 @@
    affiliation: クオリサイトテクノロジーズ
    photo: ../../images/neighbors/harada_yuto.png
    xUrl: "https://x.com/HYuto30325"
-
 
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
