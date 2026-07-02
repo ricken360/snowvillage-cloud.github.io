@@ -100,6 +100,11 @@
    photo: ../../images/neighbors/harada_yuto.png
    xUrl: "https://x.com/HYuto30325"
 
+ - name: 横澤 直樹
+   affiliation: 株式会社メディアフォース
+   photo: ../../images/neighbors/naoki_yokozawa.jpeg
+   xUrl: "https://x.com/naoki_yokozawa"
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
